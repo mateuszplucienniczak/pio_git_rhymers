@@ -1,6 +1,6 @@
 package edu.kis.vh.nursery;
 // wiersze 5, 12, 14, 15 i brak nowej lini po wierszu 16 aby zachować spójność z resztą klas
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
 
 	int totalRejected = 0;
 
